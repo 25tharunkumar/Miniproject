@@ -1,4 +1,4 @@
-## Title of the Project
+# Title of the Project : Botnet Detection Using Machine Learning
 This project focuses on leveraging machine learning techniques to identify and mitigate botnet activities within networks. Botnets, networks of compromised devices controlled by attackers, pose significant threats to cybersecurity. The system employs advanced algorithms to analyze traffic patterns, detect anomalies, and classify malicious activities in real-time
 
 ## About
